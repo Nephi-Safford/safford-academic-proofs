@@ -1,0 +1,38 @@
+# =========================================================================
+# SJS SOVEREIGN GITIGNORE TEMPLATE - ACADEMIC PROOFS
+# ARCHITECT: NEPHI SAFFORD
+# =========================================================================
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python Caches & Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# LaTeX & Document Compilation Sediments
+*.aux
+*.log
+*.toc
+*.pdf
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+*.xdv
+
+# Lean 4 Build Artifacts
+.lake/
+build/
+*~
